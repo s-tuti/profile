@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I started coding<br>📚 I'm currently learning advanced machine learning techniques and full-stack development<br>🎯 Goals: To innovate in AI and develop impactful projects<br>🎲 Fun fact: I love sprinting and have won several medals in athletics</p>
+<p align="left">✨ Creating bugs since I started coding<br>📚 I'm currently learning business Analytics and Pytorch Development <br>🎯 Goals: To innovate in AI and develop impactful projects<br>🎲 Fun fact: I love sprinting and have won several medals in athletics</p>
 
 ###
 
