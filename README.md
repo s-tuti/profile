@@ -1,6 +1,6 @@
 <a href="https://github.com/s-tuti"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=stuti1234&style=flat-square" width="125"/></a>
 
-<h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/stuti-tiwari/">Stuti Tiwari </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+<h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/stuti10/">Stuti Tiwari </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
   <a href="https://github.com/stuti1234/project-repo"><img align="right" src="https://user-images.githubusercontent.com/30947706/79588950-17515780-80ee-11ea-8f66-e26da49fa052.png" alt="Project Image" width="200"/></a> - AI Enthusiast</h1> 
 
 <p align="left">My name is Stuti Tiwari and I'm a Computer Science student specializing in AI, from IGDTUW.</p>
