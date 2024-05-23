@@ -14,12 +14,16 @@
   <a href="https://github.com/s-tuti"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-## 🤝 Consulting / Coaching
+## 🤝 About Me
 
   ✨ Creating bugs since I started coding<br>
+  
   📚 I'm currently learning Business Analytics and PyTorch Development<br>
+  
   🎯 Goals: To innovate in AI and develop impactful projects<br>
+  
   👨‍💻 Web Scraping, Browser Automation, Python Scripting <br>
+  
   🎲 Fun fact: I love sprinting and have won several medals in athletics<br>
   
 
